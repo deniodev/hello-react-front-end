@@ -29,7 +29,7 @@
 **[Hello rails front-end]** fetches and displays random greetings.
 
 ### API <a name="api"></a>
-- Tha app consumes this [API](https://github.com/deniodev/hello-rails-backend)
+- Tha app consumes this [API](https://github.com/deniodev/hello-rails-back-end)
 
 # 🛠 Built With <a name="built-with"></a>
 
